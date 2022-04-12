@@ -1,9 +1,4 @@
-Observações sobre as aulas de introdução ao Git e ao GitHub 
-
-
-
-
-
+Observações sobre as aulas de introdução ao Git e ao GitHub:
 
 Códigos usados no Git Bash Here durante as aulas: 
 
