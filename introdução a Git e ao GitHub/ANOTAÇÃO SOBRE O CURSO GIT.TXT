@@ -1,0 +1,22 @@
+Observações sobre as aulas de introdução ao Git e ao GitHub 
+
+Em construção... 
+
+
+
+
+Códigos usados do Git Bash Here durante as aulas: 
+
+git clone + link do repositório
+
+cd + dio-desafio-github-primeiro-repositorio
+
+git status 
+
+git add  . = para atualizar as modificações no git 
+
+git status 
+
+git commit -m =  ''inclusão das anotações do curso de Git/GitHub"
+
+git push origin main 
